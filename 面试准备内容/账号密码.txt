@@ -1,0 +1,169 @@
+邮箱：   zhangjing@xiniubox.com密码：   zhang6635110Z
+RedMine账号：zhangjing 密码：（zhangjing6635110）   http://192.168.1.227:8080/redmine/my/page
+showDOC:zhangjing    zj123456    http://192.168.1.227:8080/showdoc/
+Sign11Name:西西软件园Serial: UDU9X-F3CQA-HH9BX-CGVUK-DR579
+KimiClass后台：admin  123456    http://test.kanlaoshi.com/index.php?action=backyard.school.view&id=575132cfdd65ed18018b4599#nav-tab-1
+小课堂手机号更改：http://test.kanlaoshi.com/index.php?action=portal.test.index
+H5业务员查询：http://test.52doubao.cn/h5/salesman_statistics/index.html
+web业务员查询：http://test.52doubao.cn/index.php?action=salesmen.index.login
+夺宝测试服务器：http://test.52doubao.cn/admin_mongodb/index.php?action=login.index&host=0   admin   qinjin123
+
+fgh963852741@126.com    zhangjing6635110
+
+
+github    zhangjing1235    fgh963852741@126.com   zhangjing6635110
+
+
+
+常用网址：
+1.人人都是产品经理：http://www.woshipm.com/pmd/366041.html#
+2.shell菜鸟编程：http://www.runoob.com/linux/linux-shell.html
+3.在线编程工具：http://www.runoob.com/try/runcode.php?filename=helloworld&type=bash
+4.Fiddler 教程：http://kb.cnblogs.com/page/130367/
+http://www.cnblogs.com/TankXiao/p/4045439.html
+6.博客园：http://www.cnblogs.com    账号：zhangjing1235  密码：zhangjing6635110?    关注人：小坦克（测试）    腾飞（架构）
+宋沄剑（数据库）    
+
+
+谷歌：
+1.http://192.168.1.227:8080/showdoc/     zhangjing   ---zj123456
+2.http://192.168.1.227:8080/redmine/login?back_url=http%3A%2F%2F192.168.1.227%3A8080%2Fredmine%2Fmy%2Fpage   redmine    zhangjing   zhangjing6635110
+3.http://test.kanlaoshi.com/index.php?action=backyard.index.index   测试服务器
+4.
+
+1. Artech
+2. 路过秋天
+3. 数据之巅
+4. 腾飞（Jesse)
+5. CareySon
+6. 叶小钗
+7. 三生石上
+8. 一线码农
+9. Vamei
+10. tkb至简
+11. 小洋（燕洋天）
+12. Jimmy Zhang
+13. 张善友
+14. 葡萄城控件技术团队
+15. 司徒正美
+16. KenshinCui
+17. Insus.NET
+18. 请叫我头头哥
+19. Learning hard
+20. 【Aaron】
+21. 夏天的森林
+22. 聂微东
+23. 农码一生
+24. 周 金根
+25. Edison Chou
+26. 桦仔
+27. 刘哇勇
+28. ChokCoco
+29. 匠心十年
+30. 小坦克
+31. 吴秦
+32. stoneniqiu
+33. snandy
+34. yangecnu
+35. James Li
+36. netfocus
+37. JustRun
+38. keepfool
+39. 焰尾迭
+40. 李永京
+41. wolfy
+42. 陈希章
+43. EtherDream
+44. dax.net
+45. 魏琼东
+46. 王清培
+47. dotNetDR_
+48. 周见智
+49. mindwind
+50. Milo Yip
+51. 木宛城主
+52. Barret Lee
+53. 冠军
+54. 程兴亮
+55. T2噬菌体
+56. 自由飞
+57. CoffeeDeveloper
+58. Todd Wei
+59. 【当耐特】
+60. 破狼
+61. 虾皮
+62. webabcd
+63. 黄博文
+64. vajoy
+65. richiezhang
+66. 菩提树下的杨过
+67. 潇湘隐者
+68. 风尘浪子
+69. 农民伯伯
+70. 张逸
+71. 慕容小匹夫
+72. BIT祝威
+73. Cat Chen
+74. xpy0928
+75. 流云诸葛
+76. beautifulzzzz
+77. 代震军
+78. Luminji
+79. 计算机的潜意识
+80. 蘑菇先生
+81. Create Chen
+82. WXWinter(冬)
+83. 冰麟轻武
+84. 韩子迟
+85. 木小楠
+86. 金色海洋（jyk）阳光男孩
+87. DebugLZQ
+88. 伍迷
+89. 银河
+90. nowpaper
+91. skyme
+92. hystar
+93. lovecindywang
+94. zdd
+95. 坚强2002
+96. JeffWong
+97. 灵感之源
+98. BloodyAngel
+99. Savorboard
+100. 斯克迪亚
+
+
+    现已将七米课堂后台密码修改：
+        测试服务器（test.kanlaoshi.com） admin账号密码修改为 kimitqinjin123     
+        生产服务器（www.kimiclass.com）admin账号密码修改为 kimiclass!@#qinjin123
+        其他账号密码没有变动，登录时请注意
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.页面弹窗标点符号为英文
+2.该活动为最后一期，点击立即使用（活动详情页面）
+3.多个账户登录，看红包数量用完时（注册OK）
+4.若没有注册送红包，同时在推送之后注册，是不是就没有红包
